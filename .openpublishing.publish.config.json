@@ -3,7 +3,7 @@
   "need_generate_intellisense": false,
   "git_repository_url_open_to_public_contributors": "",
   "git_repository_branch_open_to_public_contributors": "",
-  "continue_with_document_error": false,
+  "continue_with_document_error": true,
   "docsets_to_publish": [
     {
       "docset_name": "E2E_RepoConifg_Dynamic",
