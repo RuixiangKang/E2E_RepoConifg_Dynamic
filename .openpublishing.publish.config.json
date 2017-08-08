@@ -10,7 +10,7 @@
       "build_source_folder": "E2E_RepoConifg_Dynamic",
       "build_output_subfolder": "E2E_RepoConifg_Dynamic",
       "locale": "en-us",
-      "monikers": [],
+      "monikers": ["azurepowershellrm-v4.5.0_testsss"],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
