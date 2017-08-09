@@ -30,7 +30,19 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master-prerelease",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
+      "branch": "master",
+      "branch_mapping": {},
+      "Targets": {
+        "PDF":{"template_folder": "_themes.pdf"}
+      }
     }
   ],
+  "branch_target_mapping":{
+    "master-ValueTrue":["Pdf"]
+  }
   "need_generate_pdf_url_template": false
 }
