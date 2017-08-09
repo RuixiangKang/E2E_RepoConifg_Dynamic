@@ -43,6 +43,6 @@
   ],
   "branch_target_mapping":{
     "master-valueTrue":["Pdf"]
-  }
+  },
   "need_generate_pdf_url_template": false
 }
