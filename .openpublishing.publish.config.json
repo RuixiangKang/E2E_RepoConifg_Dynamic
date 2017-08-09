@@ -41,10 +41,10 @@
       }
     }
   ],
-  "branch_target_mapping":{
-    "master-valueTrue":[
-        "Publish",
-        "Pdf"
+  "branch_target_mapping": {
+    "master-valueTrue": [
+      "Publish",
+      "Pdf"
     ]
   },
   "need_generate_pdf_url_template": false
