@@ -37,7 +37,7 @@
       "branch": "master",
       "branch_mapping": {},
       "Targets": {
-        "PDF":{"template_folder": "_themes.pdf"}
+        "PDF":{"template_folder":"_themes.pdf"}
       }
     }
   ],
