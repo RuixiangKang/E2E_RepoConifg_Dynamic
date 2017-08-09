@@ -41,7 +41,7 @@
    "branch_target_mapping": {
       "master-valueTrue": [
         "Publish",
-        "Pdf"
+        "PDF"
       ]
     },
   "Targets": {
