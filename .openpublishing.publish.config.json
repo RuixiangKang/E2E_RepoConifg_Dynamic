@@ -42,7 +42,10 @@
     }
   ],
   "branch_target_mapping":{
-    "master-valueTrue":["Pdf","Publish"]
+    "master-valueTrue":[
+        "Publish",
+        "Pdf"
+    ]
   },
   "need_generate_pdf_url_template": false
 }
