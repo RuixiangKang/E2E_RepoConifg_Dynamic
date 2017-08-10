@@ -42,7 +42,7 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_RepoConifg_Dynamic",
+    "dest": "_site",
     "xref": [
       "_zip/msdn.4.5.2.zip"
     ],
