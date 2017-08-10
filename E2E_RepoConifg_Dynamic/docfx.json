@@ -3,6 +3,7 @@
     "content": [
       {
         "files": [
+         "**/*.yml",
           "**/*.md"
         ],
         "exclude": [
@@ -32,6 +33,9 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
+    "xref": [
+      "_zip/msdn.4.5.2.zip"
+    ],
     "dest": "E2E_RepoConifg_Dynamic"
   }
 }
