@@ -1,10 +1,26 @@
 {
+"metadata": [
+    {
+      "src": [
+        {
+          "files": [
+            "src/**.cs"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "**/bin/**"
+          ]
+        }
+      ],
+      "dest": "api"
+    }
+  ],
   "build": {
     "content": [
       {
         "files": [
           "**/*.md",
-          "api/test.yml"
+          "api/**.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -36,10 +52,7 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_RepoConifg_Dynamic",
-    "xref": [
-      "_zip/msdn.4.5.2.zip"
-    ],
+    "dest": "_site",
     "lruSize": 0
   }
 }
