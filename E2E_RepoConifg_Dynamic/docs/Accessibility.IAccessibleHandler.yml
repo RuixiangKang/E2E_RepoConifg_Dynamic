@@ -1,0 +1,25 @@
+### YamlMime:XRefMap
+sorted: true
+hrefUpdated: true
+references:
+- uid: Accessibility.IAccessibleHandler
+  commentId: T:Accessibility.IAccessibleHandler
+  href: https://msdn.microsoft.com/en-us/library/accessibility.iaccessiblehandler(v=vs.110).aspx
+  name: IAccessibleHandler
+  name.vb: IAccessibleHandler
+  fullName: Accessibility.IAccessibleHandler
+  fullName.vb: Accessibility.IAccessibleHandler
+- uid: Accessibility.IAccessibleHandler.AccessibleObjectFromID(System.Int32,System.Int32,Accessibility.IAccessible@)
+  commentId: M:Accessibility.IAccessibleHandler.AccessibleObjectFromID(System.Int32,System.Int32,Accessibility.IAccessible@)
+  href: https://msdn.microsoft.com/en-us/library/dchzeaca(v=vs.110).aspx
+  name: AccessibleObjectFromID(Int32, Int32, IAccessible)
+  name.vb: AccessibleObjectFromID(Int32, Int32, IAccessible)
+  fullName: IAccessibleHandler.AccessibleObjectFromID(Int32, Int32, IAccessible)
+  fullName.vb: IAccessibleHandler.AccessibleObjectFromID(Int32, Int32, IAccessible)
+- uid: Accessibility.IAccessibleHandler.AccessibleObjectFromID*
+  commentId: M:Accessibility.IAccessibleHandler.AccessibleObjectFromID(System.Int32,System.Int32,Accessibility.IAccessible@)
+  href: https://msdn.microsoft.com/en-us/library/dchzeaca(v=vs.110).aspx
+  name: AccessibleObjectFromID
+  name.vb: AccessibleObjectFromID
+  fullName: IAccessibleHandler.AccessibleObjectFromID
+  fullName.vb: IAccessibleHandler.AccessibleObjectFromID

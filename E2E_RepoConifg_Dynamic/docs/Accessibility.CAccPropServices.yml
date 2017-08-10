@@ -1,0 +1,11 @@
+### YamlMime:XRefMap
+sorted: true
+hrefUpdated: true
+references:
+- uid: Accessibility.CAccPropServices
+  commentId: T:Accessibility.CAccPropServices
+  href: https://msdn.microsoft.com/en-us/library/accessibility.caccpropservices(v=vs.110).aspx
+  name: CAccPropServices
+  name.vb: CAccPropServices
+  fullName: Accessibility.CAccPropServices
+  fullName.vb: Accessibility.CAccPropServices

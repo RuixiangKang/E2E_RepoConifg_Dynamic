@@ -1,0 +1,25 @@
+### YamlMime:XRefMap
+sorted: true
+hrefUpdated: true
+references:
+- uid: Accessibility.IAccIdentity
+  commentId: T:Accessibility.IAccIdentity
+  href: https://msdn.microsoft.com/en-us/library/accessibility.iaccidentity(v=vs.110).aspx
+  name: IAccIdentity
+  name.vb: IAccIdentity
+  fullName: Accessibility.IAccIdentity
+  fullName.vb: Accessibility.IAccIdentity
+- uid: Accessibility.IAccIdentity.GetIdentityString(System.UInt32,System.IntPtr,System.UInt32@)
+  commentId: M:Accessibility.IAccIdentity.GetIdentityString(System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/14z0z08h(v=vs.110).aspx
+  name: GetIdentityString(UInt32, IntPtr, UInt32)
+  name.vb: GetIdentityString(UInt32, IntPtr, UInt32)
+  fullName: IAccIdentity.GetIdentityString(UInt32, IntPtr, UInt32)
+  fullName.vb: IAccIdentity.GetIdentityString(UInt32, IntPtr, UInt32)
+- uid: Accessibility.IAccIdentity.GetIdentityString*
+  commentId: M:Accessibility.IAccIdentity.GetIdentityString(System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/14z0z08h(v=vs.110).aspx
+  name: GetIdentityString
+  name.vb: GetIdentityString
+  fullName: IAccIdentity.GetIdentityString
+  fullName.vb: IAccIdentity.GetIdentityString
