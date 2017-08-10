@@ -1,0 +1,221 @@
+### YamlMime:XRefMap
+sorted: true
+hrefUpdated: true
+references:
+- uid: Accessibility.IAccPropServices
+  commentId: T:Accessibility.IAccPropServices
+  href: https://msdn.microsoft.com/en-us/library/accessibility.iaccpropservices(v=vs.110).aspx
+  name: IAccPropServices
+  name.vb: IAccPropServices
+  fullName: Accessibility.IAccPropServices
+  fullName.vb: Accessibility.IAccPropServices
+- uid: Accessibility.IAccPropServices.ClearHmenuProps(Accessibility._RemotableHandle@,System.UInt32,System.Guid@,System.Int32)
+  commentId: M:Accessibility.IAccPropServices.ClearHmenuProps(Accessibility._RemotableHandle@,System.UInt32,System.Guid@,System.Int32)
+  href: https://msdn.microsoft.com/en-us/library/cds6fy7e(v=vs.110).aspx
+  name: ClearHmenuProps(_RemotableHandle, UInt32, Guid, Int32)
+  name.vb: ClearHmenuProps(_RemotableHandle, UInt32, Guid, Int32)
+  fullName: IAccPropServices.ClearHmenuProps(_RemotableHandle, UInt32, Guid, Int32)
+  fullName.vb: IAccPropServices.ClearHmenuProps(_RemotableHandle, UInt32, Guid, Int32)
+- uid: Accessibility.IAccPropServices.ClearHmenuProps*
+  commentId: M:Accessibility.IAccPropServices.ClearHmenuProps(Accessibility._RemotableHandle@,System.UInt32,System.Guid@,System.Int32)
+  href: https://msdn.microsoft.com/en-us/library/cds6fy7e(v=vs.110).aspx
+  name: ClearHmenuProps
+  name.vb: ClearHmenuProps
+  fullName: IAccPropServices.ClearHmenuProps
+  fullName.vb: IAccPropServices.ClearHmenuProps
+- uid: Accessibility.IAccPropServices.ClearHwndProps(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid@,System.Int32)
+  commentId: M:Accessibility.IAccPropServices.ClearHwndProps(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid@,System.Int32)
+  href: https://msdn.microsoft.com/en-us/library/3x93s68h(v=vs.110).aspx
+  name: ClearHwndProps(_RemotableHandle, UInt32, UInt32, Guid, Int32)
+  name.vb: ClearHwndProps(_RemotableHandle, UInt32, UInt32, Guid, Int32)
+  fullName: IAccPropServices.ClearHwndProps(_RemotableHandle, UInt32, UInt32, Guid, Int32)
+  fullName.vb: IAccPropServices.ClearHwndProps(_RemotableHandle, UInt32, UInt32, Guid, Int32)
+- uid: Accessibility.IAccPropServices.ClearHwndProps*
+  commentId: M:Accessibility.IAccPropServices.ClearHwndProps(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid@,System.Int32)
+  href: https://msdn.microsoft.com/en-us/library/3x93s68h(v=vs.110).aspx
+  name: ClearHwndProps
+  name.vb: ClearHwndProps
+  fullName: IAccPropServices.ClearHwndProps
+  fullName.vb: IAccPropServices.ClearHwndProps
+- uid: Accessibility.IAccPropServices.ClearProps(System.Byte@,System.UInt32,System.Guid@,System.Int32)
+  commentId: M:Accessibility.IAccPropServices.ClearProps(System.Byte@,System.UInt32,System.Guid@,System.Int32)
+  href: https://msdn.microsoft.com/en-us/library/535fw9z0(v=vs.110).aspx
+  name: ClearProps(Byte, UInt32, Guid, Int32)
+  name.vb: ClearProps(Byte, UInt32, Guid, Int32)
+  fullName: IAccPropServices.ClearProps(Byte, UInt32, Guid, Int32)
+  fullName.vb: IAccPropServices.ClearProps(Byte, UInt32, Guid, Int32)
+- uid: Accessibility.IAccPropServices.ClearProps*
+  commentId: M:Accessibility.IAccPropServices.ClearProps(System.Byte@,System.UInt32,System.Guid@,System.Int32)
+  href: https://msdn.microsoft.com/en-us/library/535fw9z0(v=vs.110).aspx
+  name: ClearProps
+  name.vb: ClearProps
+  fullName: IAccPropServices.ClearProps
+  fullName.vb: IAccPropServices.ClearProps
+- uid: Accessibility.IAccPropServices.ComposeHmenuIdentityString(Accessibility._RemotableHandle@,System.UInt32,System.IntPtr,System.UInt32@)
+  commentId: M:Accessibility.IAccPropServices.ComposeHmenuIdentityString(Accessibility._RemotableHandle@,System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/99865889(v=vs.110).aspx
+  name: ComposeHmenuIdentityString(_RemotableHandle, UInt32, IntPtr, UInt32)
+  name.vb: ComposeHmenuIdentityString(_RemotableHandle, UInt32, IntPtr, UInt32)
+  fullName: IAccPropServices.ComposeHmenuIdentityString(_RemotableHandle, UInt32, IntPtr, UInt32)
+  fullName.vb: IAccPropServices.ComposeHmenuIdentityString(_RemotableHandle, UInt32, IntPtr, UInt32)
+- uid: Accessibility.IAccPropServices.ComposeHmenuIdentityString*
+  commentId: M:Accessibility.IAccPropServices.ComposeHmenuIdentityString(Accessibility._RemotableHandle@,System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/99865889(v=vs.110).aspx
+  name: ComposeHmenuIdentityString
+  name.vb: ComposeHmenuIdentityString
+  fullName: IAccPropServices.ComposeHmenuIdentityString
+  fullName.vb: IAccPropServices.ComposeHmenuIdentityString
+- uid: Accessibility.IAccPropServices.ComposeHwndIdentityString(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.IntPtr,System.UInt32@)
+  commentId: M:Accessibility.IAccPropServices.ComposeHwndIdentityString(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/0cy0kks7(v=vs.110).aspx
+  name: ComposeHwndIdentityString(_RemotableHandle, UInt32, UInt32, IntPtr, UInt32)
+  name.vb: ComposeHwndIdentityString(_RemotableHandle, UInt32, UInt32, IntPtr, UInt32)
+  fullName: IAccPropServices.ComposeHwndIdentityString(_RemotableHandle, UInt32, UInt32, IntPtr, UInt32)
+  fullName.vb: IAccPropServices.ComposeHwndIdentityString(_RemotableHandle, UInt32, UInt32, IntPtr, UInt32)
+- uid: Accessibility.IAccPropServices.ComposeHwndIdentityString*
+  commentId: M:Accessibility.IAccPropServices.ComposeHwndIdentityString(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/0cy0kks7(v=vs.110).aspx
+  name: ComposeHwndIdentityString
+  name.vb: ComposeHwndIdentityString
+  fullName: IAccPropServices.ComposeHwndIdentityString
+  fullName.vb: IAccPropServices.ComposeHwndIdentityString
+- uid: Accessibility.IAccPropServices.DecomposeHmenuIdentityString(System.Byte@,System.UInt32,System.IntPtr,System.UInt32@)
+  commentId: M:Accessibility.IAccPropServices.DecomposeHmenuIdentityString(System.Byte@,System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/s36skd2z(v=vs.110).aspx
+  name: DecomposeHmenuIdentityString(Byte, UInt32, IntPtr, UInt32)
+  name.vb: DecomposeHmenuIdentityString(Byte, UInt32, IntPtr, UInt32)
+  fullName: IAccPropServices.DecomposeHmenuIdentityString(Byte, UInt32, IntPtr, UInt32)
+  fullName.vb: IAccPropServices.DecomposeHmenuIdentityString(Byte, UInt32, IntPtr, UInt32)
+- uid: Accessibility.IAccPropServices.DecomposeHmenuIdentityString*
+  commentId: M:Accessibility.IAccPropServices.DecomposeHmenuIdentityString(System.Byte@,System.UInt32,System.IntPtr,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/s36skd2z(v=vs.110).aspx
+  name: DecomposeHmenuIdentityString
+  name.vb: DecomposeHmenuIdentityString
+  fullName: IAccPropServices.DecomposeHmenuIdentityString
+  fullName.vb: IAccPropServices.DecomposeHmenuIdentityString
+- uid: Accessibility.IAccPropServices.DecomposeHwndIdentityString(System.Byte@,System.UInt32,System.IntPtr,System.UInt32@,System.UInt32@)
+  commentId: M:Accessibility.IAccPropServices.DecomposeHwndIdentityString(System.Byte@,System.UInt32,System.IntPtr,System.UInt32@,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/e760t09f(v=vs.110).aspx
+  name: DecomposeHwndIdentityString(Byte, UInt32, IntPtr, UInt32, UInt32)
+  name.vb: DecomposeHwndIdentityString(Byte, UInt32, IntPtr, UInt32, UInt32)
+  fullName: IAccPropServices.DecomposeHwndIdentityString(Byte, UInt32, IntPtr, UInt32, UInt32)
+  fullName.vb: IAccPropServices.DecomposeHwndIdentityString(Byte, UInt32, IntPtr, UInt32, UInt32)
+- uid: Accessibility.IAccPropServices.DecomposeHwndIdentityString*
+  commentId: M:Accessibility.IAccPropServices.DecomposeHwndIdentityString(System.Byte@,System.UInt32,System.IntPtr,System.UInt32@,System.UInt32@)
+  href: https://msdn.microsoft.com/en-us/library/e760t09f(v=vs.110).aspx
+  name: DecomposeHwndIdentityString
+  name.vb: DecomposeHwndIdentityString
+  fullName: IAccPropServices.DecomposeHwndIdentityString
+  fullName.vb: IAccPropServices.DecomposeHwndIdentityString
+- uid: Accessibility.IAccPropServices.SetHmenuProp(Accessibility._RemotableHandle@,System.UInt32,System.Guid,System.Object)
+  commentId: M:Accessibility.IAccPropServices.SetHmenuProp(Accessibility._RemotableHandle@,System.UInt32,System.Guid,System.Object)
+  href: https://msdn.microsoft.com/en-us/library/439w5efb(v=vs.110).aspx
+  name: SetHmenuProp(_RemotableHandle, UInt32, Guid, Object)
+  name.vb: SetHmenuProp(_RemotableHandle, UInt32, Guid, Object)
+  fullName: IAccPropServices.SetHmenuProp(_RemotableHandle, UInt32, Guid, Object)
+  fullName.vb: IAccPropServices.SetHmenuProp(_RemotableHandle, UInt32, Guid, Object)
+- uid: Accessibility.IAccPropServices.SetHmenuProp*
+  commentId: M:Accessibility.IAccPropServices.SetHmenuProp(Accessibility._RemotableHandle@,System.UInt32,System.Guid,System.Object)
+  href: https://msdn.microsoft.com/en-us/library/439w5efb(v=vs.110).aspx
+  name: SetHmenuProp
+  name.vb: SetHmenuProp
+  fullName: IAccPropServices.SetHmenuProp
+  fullName.vb: IAccPropServices.SetHmenuProp
+- uid: Accessibility.IAccPropServices.SetHmenuPropServer(Accessibility._RemotableHandle@,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  commentId: M:Accessibility.IAccPropServices.SetHmenuPropServer(Accessibility._RemotableHandle@,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  href: https://msdn.microsoft.com/en-us/library/d08thdbw(v=vs.110).aspx
+  name: SetHmenuPropServer(_RemotableHandle, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  name.vb: SetHmenuPropServer(_RemotableHandle, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  fullName: IAccPropServices.SetHmenuPropServer(_RemotableHandle, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  fullName.vb: IAccPropServices.SetHmenuPropServer(_RemotableHandle, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+- uid: Accessibility.IAccPropServices.SetHmenuPropServer*
+  commentId: M:Accessibility.IAccPropServices.SetHmenuPropServer(Accessibility._RemotableHandle@,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  href: https://msdn.microsoft.com/en-us/library/d08thdbw(v=vs.110).aspx
+  name: SetHmenuPropServer
+  name.vb: SetHmenuPropServer
+  fullName: IAccPropServices.SetHmenuPropServer
+  fullName.vb: IAccPropServices.SetHmenuPropServer
+- uid: Accessibility.IAccPropServices.SetHmenuPropStr(Accessibility._RemotableHandle@,System.UInt32,System.Guid,System.String)
+  commentId: M:Accessibility.IAccPropServices.SetHmenuPropStr(Accessibility._RemotableHandle@,System.UInt32,System.Guid,System.String)
+  href: https://msdn.microsoft.com/en-us/library/ccfaaex7(v=vs.110).aspx
+  name: SetHmenuPropStr(_RemotableHandle, UInt32, Guid, String)
+  name.vb: SetHmenuPropStr(_RemotableHandle, UInt32, Guid, String)
+  fullName: IAccPropServices.SetHmenuPropStr(_RemotableHandle, UInt32, Guid, String)
+  fullName.vb: IAccPropServices.SetHmenuPropStr(_RemotableHandle, UInt32, Guid, String)
+- uid: Accessibility.IAccPropServices.SetHmenuPropStr*
+  commentId: M:Accessibility.IAccPropServices.SetHmenuPropStr(Accessibility._RemotableHandle@,System.UInt32,System.Guid,System.String)
+  href: https://msdn.microsoft.com/en-us/library/ccfaaex7(v=vs.110).aspx
+  name: SetHmenuPropStr
+  name.vb: SetHmenuPropStr
+  fullName: IAccPropServices.SetHmenuPropStr
+  fullName.vb: IAccPropServices.SetHmenuPropStr
+- uid: Accessibility.IAccPropServices.SetHwndProp(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid,System.Object)
+  commentId: M:Accessibility.IAccPropServices.SetHwndProp(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid,System.Object)
+  href: https://msdn.microsoft.com/en-us/library/5f19ktc6(v=vs.110).aspx
+  name: SetHwndProp(_RemotableHandle, UInt32, UInt32, Guid, Object)
+  name.vb: SetHwndProp(_RemotableHandle, UInt32, UInt32, Guid, Object)
+  fullName: IAccPropServices.SetHwndProp(_RemotableHandle, UInt32, UInt32, Guid, Object)
+  fullName.vb: IAccPropServices.SetHwndProp(_RemotableHandle, UInt32, UInt32, Guid, Object)
+- uid: Accessibility.IAccPropServices.SetHwndProp*
+  commentId: M:Accessibility.IAccPropServices.SetHwndProp(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid,System.Object)
+  href: https://msdn.microsoft.com/en-us/library/5f19ktc6(v=vs.110).aspx
+  name: SetHwndProp
+  name.vb: SetHwndProp
+  fullName: IAccPropServices.SetHwndProp
+  fullName.vb: IAccPropServices.SetHwndProp
+- uid: Accessibility.IAccPropServices.SetHwndPropServer(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  commentId: M:Accessibility.IAccPropServices.SetHwndPropServer(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  href: https://msdn.microsoft.com/en-us/library/2xbfdw4t(v=vs.110).aspx
+  name: SetHwndPropServer(_RemotableHandle, UInt32, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  name.vb: SetHwndPropServer(_RemotableHandle, UInt32, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  fullName: IAccPropServices.SetHwndPropServer(_RemotableHandle, UInt32, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  fullName.vb: IAccPropServices.SetHwndPropServer(_RemotableHandle, UInt32, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+- uid: Accessibility.IAccPropServices.SetHwndPropServer*
+  commentId: M:Accessibility.IAccPropServices.SetHwndPropServer(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  href: https://msdn.microsoft.com/en-us/library/2xbfdw4t(v=vs.110).aspx
+  name: SetHwndPropServer
+  name.vb: SetHwndPropServer
+  fullName: IAccPropServices.SetHwndPropServer
+  fullName.vb: IAccPropServices.SetHwndPropServer
+- uid: Accessibility.IAccPropServices.SetHwndPropStr(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid,System.String)
+  commentId: M:Accessibility.IAccPropServices.SetHwndPropStr(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid,System.String)
+  href: https://msdn.microsoft.com/en-us/library/s58dyyc3(v=vs.110).aspx
+  name: SetHwndPropStr(_RemotableHandle, UInt32, UInt32, Guid, String)
+  name.vb: SetHwndPropStr(_RemotableHandle, UInt32, UInt32, Guid, String)
+  fullName: IAccPropServices.SetHwndPropStr(_RemotableHandle, UInt32, UInt32, Guid, String)
+  fullName.vb: IAccPropServices.SetHwndPropStr(_RemotableHandle, UInt32, UInt32, Guid, String)
+- uid: Accessibility.IAccPropServices.SetHwndPropStr*
+  commentId: M:Accessibility.IAccPropServices.SetHwndPropStr(Accessibility._RemotableHandle@,System.UInt32,System.UInt32,System.Guid,System.String)
+  href: https://msdn.microsoft.com/en-us/library/s58dyyc3(v=vs.110).aspx
+  name: SetHwndPropStr
+  name.vb: SetHwndPropStr
+  fullName: IAccPropServices.SetHwndPropStr
+  fullName.vb: IAccPropServices.SetHwndPropStr
+- uid: Accessibility.IAccPropServices.SetPropServer(System.Byte@,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  commentId: M:Accessibility.IAccPropServices.SetPropServer(System.Byte@,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  href: https://msdn.microsoft.com/en-us/library/4cd3fbzz(v=vs.110).aspx
+  name: SetPropServer(Byte, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  name.vb: SetPropServer(Byte, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  fullName: IAccPropServices.SetPropServer(Byte, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+  fullName.vb: IAccPropServices.SetPropServer(Byte, UInt32, Guid, Int32, IAccPropServer, AnnoScope)
+- uid: Accessibility.IAccPropServices.SetPropServer*
+  commentId: M:Accessibility.IAccPropServices.SetPropServer(System.Byte@,System.UInt32,System.Guid@,System.Int32,Accessibility.IAccPropServer,Accessibility.AnnoScope)
+  href: https://msdn.microsoft.com/en-us/library/4cd3fbzz(v=vs.110).aspx
+  name: SetPropServer
+  name.vb: SetPropServer
+  fullName: IAccPropServices.SetPropServer
+  fullName.vb: IAccPropServices.SetPropServer
+- uid: Accessibility.IAccPropServices.SetPropValue(System.Byte@,System.UInt32,System.Guid,System.Object)
+  commentId: M:Accessibility.IAccPropServices.SetPropValue(System.Byte@,System.UInt32,System.Guid,System.Object)
+  href: https://msdn.microsoft.com/en-us/library/dhfed652(v=vs.110).aspx
+  name: SetPropValue(Byte, UInt32, Guid, Object)
+  name.vb: SetPropValue(Byte, UInt32, Guid, Object)
+  fullName: IAccPropServices.SetPropValue(Byte, UInt32, Guid, Object)
+  fullName.vb: IAccPropServices.SetPropValue(Byte, UInt32, Guid, Object)
+- uid: Accessibility.IAccPropServices.SetPropValue*
+  commentId: M:Accessibility.IAccPropServices.SetPropValue(System.Byte@,System.UInt32,System.Guid,System.Object)
+  href: https://msdn.microsoft.com/en-us/library/dhfed652(v=vs.110).aspx
+  name: SetPropValue
+  name.vb: SetPropValue
+  fullName: IAccPropServices.SetPropValue
+  fullName.vb: IAccPropServices.SetPropValue

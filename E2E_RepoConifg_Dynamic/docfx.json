@@ -3,13 +3,12 @@
     "content": [
       {
         "files": [
-          "**/*.md",
-          "**/*.yml"
+         "**/*.yml",
+          "**/*.md"
         ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
-          "api/overwrites/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
@@ -21,10 +20,7 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg",
-          "**/*.svg",
-          "**/*.gif",
-          "**/*.bmp"
+          "**/*.jpg"
         ],
         "exclude": [
           "**/obj/**",
@@ -32,20 +28,14 @@
         ]
       }
     ],
-    "overwrite": {
-      "files": [
-        "api/overwrites/**/*.md"
-      ]
-    },
-    "globalMetadata": {
-      "apiPlatform": "dotnet"
-    },
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_RepoConifg_Dynamic",
     "xref": [
       "_zip/msdn.4.5.2.zip"
     ],
-    "lruSize": 0
+    "dest": "E2E_RepoConifg_Dynamic"
   }
 }

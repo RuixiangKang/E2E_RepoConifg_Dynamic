@@ -1,0 +1,39 @@
+### YamlMime:XRefMap
+sorted: true
+hrefUpdated: true
+references:
+- uid: Microsoft.Activities.Build.Debugger.DebugBuildExtension
+  commentId: T:Microsoft.Activities.Build.Debugger.DebugBuildExtension
+  href: https://msdn.microsoft.com/en-us/library/microsoft.activities.build.debugger.debugbuildextension(v=vs.110).aspx
+  name: DebugBuildExtension
+  name.vb: DebugBuildExtension
+  fullName: Microsoft.Activities.Build.Debugger.DebugBuildExtension
+  fullName.vb: Microsoft.Activities.Build.Debugger.DebugBuildExtension
+- uid: Microsoft.Activities.Build.Debugger.DebugBuildExtension.#ctor
+  commentId: M:Microsoft.Activities.Build.Debugger.DebugBuildExtension.#ctor
+  href: https://msdn.microsoft.com/en-us/library/hh156787(v=vs.110).aspx
+  name: DebugBuildExtension()
+  name.vb: DebugBuildExtension()
+  fullName: DebugBuildExtension.DebugBuildExtension()
+  fullName.vb: DebugBuildExtension.DebugBuildExtension()
+- uid: Microsoft.Activities.Build.Debugger.DebugBuildExtension.#ctor*
+  commentId: M:Microsoft.Activities.Build.Debugger.DebugBuildExtension.#ctor
+  href: https://msdn.microsoft.com/en-us/library/hh156787(v=vs.110).aspx
+  name: DebugBuildExtension
+  name.vb: DebugBuildExtension
+  fullName: DebugBuildExtension.DebugBuildExtension
+  fullName.vb: DebugBuildExtension.DebugBuildExtension
+- uid: Microsoft.Activities.Build.Debugger.DebugBuildExtension.Execute(Microsoft.Build.Tasks.Xaml.ClassData,Microsoft.Build.Tasks.Xaml.XamlBuildTypeGenerationExtensionContext)
+  commentId: M:Microsoft.Activities.Build.Debugger.DebugBuildExtension.Execute(Microsoft.Build.Tasks.Xaml.ClassData,Microsoft.Build.Tasks.Xaml.XamlBuildTypeGenerationExtensionContext)
+  href: https://msdn.microsoft.com/en-us/library/hh156789(v=vs.110).aspx
+  name: Execute(ClassData, XamlBuildTypeGenerationExtensionContext)
+  name.vb: Execute(ClassData, XamlBuildTypeGenerationExtensionContext)
+  fullName: DebugBuildExtension.Execute(ClassData, XamlBuildTypeGenerationExtensionContext)
+  fullName.vb: DebugBuildExtension.Execute(ClassData, XamlBuildTypeGenerationExtensionContext)
+- uid: Microsoft.Activities.Build.Debugger.DebugBuildExtension.Execute*
+  commentId: M:Microsoft.Activities.Build.Debugger.DebugBuildExtension.Execute(Microsoft.Build.Tasks.Xaml.ClassData,Microsoft.Build.Tasks.Xaml.XamlBuildTypeGenerationExtensionContext)
+  href: https://msdn.microsoft.com/en-us/library/hh156789(v=vs.110).aspx
+  name: Execute
+  name.vb: Execute
+  fullName: DebugBuildExtension.Execute
+  fullName.vb: DebugBuildExtension.Execute

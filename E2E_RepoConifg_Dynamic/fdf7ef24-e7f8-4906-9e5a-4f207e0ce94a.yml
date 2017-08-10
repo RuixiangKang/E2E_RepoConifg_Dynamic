@@ -1,0 +1,46 @@
+### YamlMime:XRefMap
+sorted: true
+hrefUpdated: true
+references:
+- uid: Microsoft.Windows.Themes.ButtonChrome.Background
+  commentId: P:Microsoft.Windows.Themes.ButtonChrome.Background
+  href: https://msdn.microsoft.com/en-us/library/ms635082(v=vs.110).aspx
+  name: Background
+  name.vb: Background
+  fullName: ButtonChrome.Background
+  fullName.vb: ButtonChrome.Background
+- uid: Microsoft.Windows.Themes.ButtonChrome.Background*
+  commentId: P:Microsoft.Windows.Themes.ButtonChrome.Background
+  href: https://msdn.microsoft.com/en-us/library/ms635082(v=vs.110).aspx
+  name: Background
+  name.vb: Background
+  fullName: ButtonChrome.Background
+  fullName.vb: ButtonChrome.Background
+- uid: Microsoft.Windows.Themes.ButtonChrome.BackgroundProperty
+  commentId: F:Microsoft.Windows.Themes.ButtonChrome.BackgroundProperty
+  href: https://msdn.microsoft.com/en-us/library/ms595925(v=vs.110).aspx
+  name: BackgroundProperty
+  name.vb: BackgroundProperty
+  fullName: ButtonChrome.BackgroundProperty
+  fullName.vb: ButtonChrome.BackgroundProperty
+- uid: Microsoft.Windows.Themes.ButtonChrome.RoundCorners
+  commentId: P:Microsoft.Windows.Themes.ButtonChrome.RoundCorners
+  href: https://msdn.microsoft.com/en-us/library/ms635087(v=vs.110).aspx
+  name: RoundCorners
+  name.vb: RoundCorners
+  fullName: ButtonChrome.RoundCorners
+  fullName.vb: ButtonChrome.RoundCorners
+- uid: Microsoft.Windows.Themes.ButtonChrome.RoundCorners*
+  commentId: P:Microsoft.Windows.Themes.ButtonChrome.RoundCorners
+  href: https://msdn.microsoft.com/en-us/library/ms635087(v=vs.110).aspx
+  name: RoundCorners
+  name.vb: RoundCorners
+  fullName: ButtonChrome.RoundCorners
+  fullName.vb: ButtonChrome.RoundCorners
+- uid: Microsoft.Windows.Themes.ButtonChrome.RoundCornersProperty
+  commentId: F:Microsoft.Windows.Themes.ButtonChrome.RoundCornersProperty
+  href: https://msdn.microsoft.com/en-us/library/ms595933(v=vs.110).aspx
+  name: RoundCornersProperty
+  name.vb: RoundCornersProperty
+  fullName: ButtonChrome.RoundCornersProperty
+  fullName.vb: ButtonChrome.RoundCornersProperty
