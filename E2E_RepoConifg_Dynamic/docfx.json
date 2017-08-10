@@ -37,9 +37,13 @@
         "api/overwrites/**/*.md"
       ]
     },
+    "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "docs",
+    "dest": "E2E_RepoConifg_Dynamic",
+    "xref": [
+      "_zip/msdn.4.5.2.zip"
+    ],
     "lruSize": 0
   }
 }
