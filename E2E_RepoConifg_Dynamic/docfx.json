@@ -23,7 +23,8 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "E2E_RepoConifg_Dynamic/**"
         ]
       }
     ],
