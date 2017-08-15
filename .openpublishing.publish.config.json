@@ -30,6 +30,14 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master-prerelease",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "E2E_RepoConifg_Dynamic/code",
+      "url": "https://github.com/OPS-E2E-PPE/E2E_DocsBranch_Dynamic",
+      "branch": "crr-0815",
+      "branch_mapping": {
+        "crr-test" : "crr-0815"
+      }
     }
   ],
   "need_generate_pdf_url_template": false
