@@ -6,3 +6,5 @@ _themes*/
 _repo.*/
 
 .openpublishing.buildcore.ps1
+
+E2E_RepoConifg_Dynamic/code
