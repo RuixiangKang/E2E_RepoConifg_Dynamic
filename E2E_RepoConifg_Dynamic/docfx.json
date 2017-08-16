@@ -12,7 +12,7 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices",
-          "code/README.md"
+          "test/README.md"
         ]
       }
     ],
