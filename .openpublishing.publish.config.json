@@ -21,7 +21,7 @@
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": ["filterBranch"],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "need_pr_comments": false,
