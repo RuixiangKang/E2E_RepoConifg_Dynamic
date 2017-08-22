@@ -32,7 +32,7 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "_themes",
+      "path_to_root": "docfxTest",
       "url": "https://github.com/OPS-E2E-PPE/E2E_RepoConifg_Dynamic",
       "branch": "branchMapping",
       "branch_mapping": {
