@@ -4,8 +4,7 @@
       "src": [
         {
           "files": [
-            "src/**.cs",
-            "src/**.jpg"
+            "src/**.cs"
           ],
           "exclude": [
             "**/obj/**",
