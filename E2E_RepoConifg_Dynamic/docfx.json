@@ -18,11 +18,11 @@
     ],
     "resource": [
       {
-        "files": [
-          "**/*.png",
+        "files": [          
           "**/*.jpg"
         ],
         "exclude": [
+          "**/*.png",
           "**/obj/**",
           "**/includes/**"
         ]
